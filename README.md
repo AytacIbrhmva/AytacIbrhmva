@@ -6,7 +6,6 @@
 - 🔍 **API Testing** – using tools like Postman, Swagger, and Rest-Assured.
 - 📱 **Mobile Testing** – iOS & Android apps.
 - 🧪 Familiar with Agile, Jira, Chrome DevTools, Qase.io.
-- 👨‍💻 Learning automation (Java + Selenium).
 
 ## 🔧 Tools & Technologies
 
