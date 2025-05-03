@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I’m Aytac Ibrahimova
 
-<!--
-**AytacIbrhmva/AytacIbrhmva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate **QA Engineer** with hands-on experience in:
 
-Here are some ideas to get you started:
+- ✅ **Manual Testing** – writing test cases, bug reporting, smoke/regression testing.
+- 🔍 **API Testing** – using tools like Postman, Swagger, and Rest-Assured.
+- 📱 **Mobile Testing** – iOS & Android apps.
+- 🧪 Familiar with Agile, Jira, Chrome DevTools, Qase.io.
+- 👨‍💻 Learning automation (Java + Selenium).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+
+- Java, Postman, Swagger, JIRA, Qase.io
+- Git, GitHub
+- Android/iOS testing
+- Agile/Scrum
+- Chrome DevTools
